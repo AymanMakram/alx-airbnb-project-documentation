@@ -10,7 +10,7 @@ To build a **scalable, secure, and robust RESTful API** and server-side infrastr
 
 The backend supports three primary user roles (Guest, Host, Admin) and external services.
 
-'./use case diagram.png'
+![Airbnb diagram](./use case diagram.png)
 ### 1. User & Identity Management (Actor: Guest, Host)
 
 | Feature | Description | Technical Details |
