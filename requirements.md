@@ -146,4 +146,4 @@ Auth: Guest-only for creation
 ---
 
 ## RBAC Notes
-- JWT must be sent using:
+- JWT must be sent using: Authorization: Bearer <token>
