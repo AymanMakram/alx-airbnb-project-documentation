@@ -11,7 +11,7 @@ The following diagram illustrates the core backend modules and supporting techni
 ![Airbnb ERD](./Features and Functionalities.png)
 ---
 
-## 🔑 Core Functional Modules
+## Core Functional Modules
 
 ### A. User Management
 - User registration (Guest / Host role)
@@ -36,7 +36,7 @@ The following diagram illustrates the core backend modules and supporting techni
 
 ---
 
-## ⭐ Additional Functionalities
+##  Additional Functionalities
 
 ### E. Reviews & Ratings
 - Guests provide ratings & feedback after completed stays
@@ -54,7 +54,7 @@ The following diagram illustrates the core backend modules and supporting techni
 
 ---
 
-## 🛠 Technical Requirements
+##  Technical Requirements
 
 | Category | Description |
 |---------|-------------|
